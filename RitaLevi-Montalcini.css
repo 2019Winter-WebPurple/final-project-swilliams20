@@ -1,0 +1,111 @@
+/*
+/* Sarah Williams
+* May 30, 2019
+* Rita Levi-Montalcini
+*/
+
+/* The universal selector */
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* Body properties here */
+
+body {
+    width: 100%;
+    background-color: floralwhite;/* background color of whole page */
+    margin: 15px auto;
+}
+header {
+    border-bottom: 5px solid #C3C3C3;/* color of line below header */
+    padding: 2%;
+    text-align: center;/* used to center header */
+}
+
+#sidebarA {
+    width: 20%;
+    height: 90%;
+    float: left;
+    text-align: center;/* centered text to look better */
+}
+#rita1 {
+    width: 90%;/* all picture in aside have same width to match */
+    border: 2px solid #C3C3C3;
+    margin: 2px;
+}
+#rita2 {
+    width: 90%;/* all picture in aside  have same width to match */
+    border: 2px solid #C3C3C3;
+    margin: 2px;
+}
+#rita3 {
+    width: 50%;
+    float: left;
+    border: 2px solid #C3C3C3;
+    margin: 2px;
+}
+#rita4 {
+    width: 90%;/* all picture in aside have same width to match */
+    border: 2px solid #C3C3C3;
+    margin: 2px;
+}
+#rita5 {
+    width: 90%;/* all picture in aside have same width to match */
+    border: 2px solid #C3C3C3;
+    margin: 2px;
+}
+
+main {
+    width: 58%;
+    float: left;
+    
+}
+
+#sidebarB {
+    width: 19%;
+    height: 90%;
+    float: right;
+    text-align: center;
+}
+
+footer {
+    clear: both;
+    border-top: 5px solid #C3C3C3;
+    padding: 2%;
+}
+figure {
+    font-style: italic;
+}
+#rita6 {
+    width: 50%;/* two picture in main have 50% width to look */
+    float: right;
+    border: 2px solid #C3C3C3;
+    margin: 2px;
+}
+#disclaimer {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
